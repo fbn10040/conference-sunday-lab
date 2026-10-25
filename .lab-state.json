@@ -6,5 +6,11 @@
   "publisherPrefix": "lab",
   "repo": "fbn10040/conference-sunday-lab",
   "mainRulesetId": 25829199,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "devEnvUrl": "https://wm-dev-5914.crm.dynamics.com",
+  "devEnvId": "286fa547-33b0-ed3a-b921-37e488962701",
+  "devOrgId": "f7ecb592-9ad0-f111-be85-6045bd05052d",
+  "devProfile": "dev",
+  "testEnvUrl": "https://warehousedev5914.crm.dynamics.com",
+  "testProfile": "test"
 }
