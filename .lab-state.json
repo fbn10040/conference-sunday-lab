@@ -3,5 +3,8 @@
   "randomIdentifier": 5914,
   "slnxName": "WarehouseManagement",
   "publisherName": "TALXISLab",
-  "publisherPrefix": "lab"
+  "publisherPrefix": "lab",
+  "repo": "fbn10040/conference-sunday-lab",
+  "mainRulesetId": 25829199,
+  "mainRulesetName": "lab-main-protection"
 }
